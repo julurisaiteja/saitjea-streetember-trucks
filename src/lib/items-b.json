@@ -1,0 +1,187 @@
+[
+  {
+    "id": "streetember-trucks-6",
+    "title": "Family Feast Box",
+    "price": 42,
+    "description": "Feeds 3–4, mixed sides",
+    "category": "Feast",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 59,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Family Feast Box?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "streetember-trucks-7",
+    "title": "Ember Hot Link",
+    "price": 11,
+    "description": "Charred sausage + relish",
+    "category": "Links",
+    "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 68,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Ember Hot Link?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "streetember-trucks-8",
+    "title": "Midnight Nachos",
+    "price": 12,
+    "description": "Chips, melt, pickle",
+    "category": "Nachos",
+    "image": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.3,
+    "reviews": 77,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Midnight Nachos?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "streetember-trucks-9",
+    "title": "Loaded Mac Bowl",
+    "price": 15,
+    "description": "Pasta, ember crumble, herbs",
+    "category": "Bowls",
+    "image": "https://images.unsplash.com/photo-1565123409695-7b5ef63a2efb?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 86,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Loaded Mac Bowl?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "streetember-trucks-10",
+    "title": "Spiced Churro Bites",
+    "price": 8,
+    "description": "Cinnamon dust, dip",
+    "category": "Dessert",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 95,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Spiced Churro Bites?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  }
+]
