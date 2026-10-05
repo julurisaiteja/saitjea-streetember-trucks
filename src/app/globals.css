@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #111018;
+  --fg: #fff5e8;
+  --muted: #b9a99a;
+  --accent: #ff4d1a;
+  --accent2: #ffc857;
+  --surface: #1c1824;
+  --border: #3a3040;
+}
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+::selection { background: color-mix(in oklab, var(--accent) 40%, transparent); }
+.font-display { font-family: var(--font-display), serif; }
+@keyframes rise { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes drift { from { transform: scale(1.08); } to { transform: scale(1); } }
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@keyframes softPulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+@keyframes sway { 0%,100% { transform: rotate(-1deg); } 50% { transform: rotate(1deg); } }
+.anim-rise { animation: rise .85s ease-out both; }
+.anim-drift { animation: drift 10s ease-out both; }
+.anim-marquee { animation: marquee 28s linear infinite; }
+.anim-pulse { animation: softPulse 2.6s ease-in-out infinite; }
+.anim-sway { animation: sway 4s ease-in-out infinite; }
+
+[data-style="graffiti-street"] .tag { transform: rotate(-2deg); text-shadow: 3px 3px 0 #000, -1px -1px 0 var(--accent2); }
+[data-style="graffiti-street"] .spray {
+  background: radial-gradient(circle at 20% 30%, rgba(255,77,26,.35), transparent 40%),
+    radial-gradient(circle at 80% 60%, rgba(255,200,87,.2), transparent 35%), var(--bg);
+}
+[data-style="graffiti-street"] .halftone-dark {
+  background-image: radial-gradient(rgba(255,255,255,.08) 1px, transparent 1px);
+  background-size: 6px 6px;
+}
+
+@keyframes fadeSlide { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: translateX(0); } }
+.anim-fade-slide { animation: fadeSlide .7s ease-out both; }
