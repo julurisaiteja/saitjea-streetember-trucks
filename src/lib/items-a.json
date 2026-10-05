@@ -1,0 +1,187 @@
+[
+  {
+    "id": "streetember-trucks-1",
+    "title": "Ember Smash Burger",
+    "price": 14,
+    "description": "Double smash, ember sauce",
+    "category": "Burger",
+    "image": "https://images.unsplash.com/photo-1565123409695-7b5ef63a2efb?auto=format&fit=crop&w=900&q=80",
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": 14,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Ember Smash Burger?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "streetember-trucks-2",
+    "title": "Street Taco Trio",
+    "price": 13,
+    "description": "Al pastor, chicken, veg",
+    "category": "Tacos",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 23,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Street Taco Trio?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "streetember-trucks-3",
+    "title": "Charred Corn Cup",
+    "price": 7,
+    "description": "Lime, cotija, chili",
+    "category": "Sides",
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=900&q=80",
+    "badge": "New",
+    "rating": 4.5,
+    "reviews": 32,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Charred Corn Cup?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "streetember-trucks-4",
+    "title": "Loaded Fries",
+    "price": 9,
+    "description": "Cheese, herbs, crunch",
+    "category": "Sides",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 41,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Loaded Fries?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "streetember-trucks-5",
+    "title": "Citrus Cooler",
+    "price": 5,
+    "description": "House sparkling soda",
+    "category": "Drinks",
+    "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 50,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Prep": "Made to order",
+      "Allergens": "Ask on cart",
+      "Heat": "Medium"
+    },
+    "options": [
+      "Mild",
+      "Ember hot",
+      "No dairy"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Citrus Cooler?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  }
+]
